@@ -40,7 +40,7 @@ Submit a pull request.
 
 ## the files are organized for folders 
 This folders have name descriptions
-The folders functions ahve many functions the python 
+The folders functions have many functions the python 
 
 
 ----------------------------------------------------------------------------------------------------------
