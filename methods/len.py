@@ -2,6 +2,8 @@
 In Python, the len() function is used to determine the length (number of elements) of various data structures,
 such as strings, lists, tuples, dictionaries, and more
 
+To find the length of a list in Python, you can use the `len()` function, which returns
+the number of elements in the list.
 """
 
 text = "Python emphasizes code readability and uses indentation (whitespace) to define code blocks"
