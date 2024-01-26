@@ -10,3 +10,17 @@ text_split = text.split()
 text_split2 = text.split(',') # you can pass ',' as the delimiter to the split() method
 print(text_split)
 print(text_split2)
+
+"""
+Read and split data with os.open
+
+"""
+file_split = open("C:\\Users\\Administrador\\workspace\\Python\\retosProgramacion\\file_use\example.txt")
+
+data = file_split.read()
+print("Data read : \n",data)
+
+data_split = data.split('\n')
+print("Data Split : ",data_split)
+
+file_split.close()
