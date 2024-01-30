@@ -21,5 +21,9 @@ print("original list: ", my_list2)
 
 # TO sort list in descending order, use the reverse parameter
 sorted_list_desc = sorted(my_list2, reverse=True)
-print("Lsit ordering descending : ", sorted_list_desc)
+print("List ordering descending : ", sorted_list_desc)
+fin = 60
+x = (x for x in range(0,fin,2))
+
+print("hi", list(x))
 

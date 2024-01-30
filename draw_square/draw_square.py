@@ -2,9 +2,9 @@
 """
 def square(num):
     z = ""
-    a = "*"
-    space= " "
-    l = "*"
+    a = "* "
+    space= "  "
+    l = "* "
     calculation = num -2
     for n in range(num):
         z = z+a
@@ -17,4 +17,6 @@ def square(num):
     print(z)    
     
 
-square(12)
+square(6)
+
+
