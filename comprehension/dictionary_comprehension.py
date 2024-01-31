@@ -14,7 +14,6 @@ dictionary.
 5. condition (optional): A condition that filters the items based on a Boolean
 expression. Only items for which the condition evaluates to True are included in
 the new dictionary.
-
 """
 
 squares = {x: x**2 for x in range(1,8)}
