@@ -1,4 +1,4 @@
-""" Function receives a phrase and attaches the word to search for within the phrase.
+""" Function receives a phrase and attaches the word to search for within the phrase this
      return if the word exists within the sentence and how many times the word is in the sentence.
 """
 def match_phrase(phrase,word):
