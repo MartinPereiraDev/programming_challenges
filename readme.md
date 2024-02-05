@@ -39,8 +39,9 @@ Submit a pull request.
 # Functions 
 
 ## the files are organized for folders 
-This folders have name descriptions
-The folders functions have many functions the python 
+This folders have name with descriptions.
+The folders functions have many functions the python.
+ 
 
 
 ----------------------------------------------------------------------------------------------------------
