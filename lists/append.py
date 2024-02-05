@@ -1,5 +1,6 @@
 """
-add elements o value a list use to append() method
+add elements o value a list use to append() method. 
+
 """
 
 list = [6]
