@@ -20,8 +20,8 @@ returns a string representation of the number.
 
 """
 my_int = 42
-my_string = str(my_int) # converts to string
-print(my_string) # outputs "42"
+my_string = str(my_int) # converts to string 
+print(my_string) # outputs "42" not int
 
 my_float = 3.14
 my_string = str(my_float) # converts to string
