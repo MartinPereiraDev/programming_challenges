@@ -1,6 +1,7 @@
 #  Programming challenges 
 challenges in python 
 
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -37,6 +38,7 @@ Submit a pull request.
 
 ---------------------------------------------------------------------------------------------------------
 # Functions 
+palindrome : return palindrome True o False
 
 ## the files are organized for folders 
 This folders have name with descriptions.
