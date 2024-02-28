@@ -14,7 +14,7 @@ print(my_list)
 my_list.sort(reverse=True)
 print(my_list)
 
-my_list2= [85,11,6,83,12,4]
+my_list2= [85,11,6,83,12,4,18]
 sorted_list = sorted(my_list2) # return a new sorted List
 print(sorted_list)
 print("original list: ", my_list2)
