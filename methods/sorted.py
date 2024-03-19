@@ -25,5 +25,5 @@ print("List ordering descending : ", sorted_list_desc)
 fin = 60
 x = (x for x in range(0,fin,2))
 
-print("list 2", list(x))
+print("list ", list(x))
 
