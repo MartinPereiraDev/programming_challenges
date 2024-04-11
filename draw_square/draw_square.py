@@ -17,6 +17,6 @@ def square(num):
     print(z)    
     
 
-square(22)
+square(25)
 
 
