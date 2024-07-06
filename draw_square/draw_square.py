@@ -15,6 +15,8 @@ def square(num):
     for r in range (calculation):
         print(l)
     print(z)    
+
+    
     
 
 square(35)
