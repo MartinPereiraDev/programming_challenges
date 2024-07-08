@@ -16,11 +16,11 @@ the new list.
 
 """
 
-squares = [x**2 for x in range(1,8) if x > 5]
+squares = [x**2 for x in range(1,20) if x > 5]
 print(squares)
 
 #  Selecting even numbers from 0 to 9 using list comprehension
-even_numbers = [x for x in range(10) if x % 2 == 0]
+even_numbers = [x for x in range(15) if x % 2 == 0]
 print(even_numbers)
 
 # Squaring numbers from 0 to 9 using list comprehension
