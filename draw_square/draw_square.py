@@ -19,6 +19,6 @@ def square(num):
     
     
 
-square(35)
+square(20)
 
 
