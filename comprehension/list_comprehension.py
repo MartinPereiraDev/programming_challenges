@@ -16,7 +16,7 @@ the new list.
 
 """
 
-squares = [x**2 for x in range(1,20) if x > 5]
+squares = [x**2 for x in range(1,20) if x > 20]
 print(squares)
 
 #  Selecting even numbers from 0 to 9 using list comprehension
@@ -24,7 +24,6 @@ even_numbers = [x for x in range(15) if x % 2 == 0]
 print(even_numbers)
 
 # Squaring numbers from 0 to 9 using list comprehension
-squared_numbers = [x**2 for x in range(10)]
+squared_numbers = [x**2 for x in range(15)]
 print(squared_numbers)
-
 
