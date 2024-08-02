@@ -22,6 +22,6 @@ def reverse(text):
     s = ""
     for t in text:
         s = t + s
-    return text == s 
+    return print ("this word", text, ": " , text == s , " palindrome") 
 
 reverse("otto")
