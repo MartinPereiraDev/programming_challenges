@@ -23,8 +23,8 @@ def square(num):
         print(middle)
     print(init)    
 
-
-square(10)
+# call with size of square
+square(4)
 
 
 
