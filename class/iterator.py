@@ -22,7 +22,7 @@ class MyIterator:
             raise StopIteration
 
 # Use the Iterator       
-my_iter = MyIterator(100)
+my_iter = MyIterator(1250)
 for num in my_iter:
     print(num)
 
