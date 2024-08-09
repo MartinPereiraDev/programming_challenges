@@ -19,4 +19,4 @@ def countdown(start, end):
         time.sleep(1)
     return ("end countdown")    
             
-countdown(10,45)    
+countdown(20,45)    
