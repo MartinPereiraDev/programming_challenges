@@ -8,6 +8,6 @@ Lambda functions are defined using the lambda keyword, followed by the function'
 arguments and the operation that the function should perform. The syntax for a
 lambda function is as follows:
 """
-square = lambda x: x**2
+square = lambda x: x**4
 
 print(square)
