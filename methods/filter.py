@@ -11,7 +11,7 @@ and returns an iterator that yields the elements for which the condition is True
 def is_positive(n):
     return n > 0
 
-numbers=[-10,52,-5,56,-85, 102, 0, 1, -2, 3, -4]
+numbers=[-10,52,-5,56,-85, 102, 0, 1, -2,  -4]
 
 positive_numbers = filter(is_positive, numbers)
 
