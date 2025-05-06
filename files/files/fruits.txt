@@ -1,0 +1,10 @@
+apple
+orange
+banana
+tomato
+strawberry
+watermelonapple
+banana
+orangeapple
+banana
+orange
