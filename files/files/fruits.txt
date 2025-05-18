@@ -7,4 +7,6 @@ watermelonapple
 banana
 orangeapple
 banana
+orangeapple
+banana
 orange

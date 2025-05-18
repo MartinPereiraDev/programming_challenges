@@ -26,3 +26,5 @@ with open("files/fruits.txt", "a") as file:
 with open("files/vegetables.txt", "w") as file:
     # This will overwrite the file if it already exists or create a new one
     file.write("tomato\nlettuce\npotato")    
+
+    
