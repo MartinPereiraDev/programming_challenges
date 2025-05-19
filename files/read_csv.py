@@ -6,6 +6,6 @@ while True:
     if os.path.exists("files/temps_today.csv"):
         try:
             df = pd.read_csv("files/temps_today.csv")
-            print(df)
+            print(df.mean()['st1'])
         except Exception as e:
             print(f"Error reading CSV file: {e}")
